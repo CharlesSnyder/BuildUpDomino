@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Build Up Dominoes</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="new_game">New Game</string>
+    <string name="load_game">Load Game</string>
+    <string name="delete_save">Delete Saved Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">Determine First Player</string>
+    <string name="dialog_title">Select the save file you would like to delete</string>
+    <string name="save_game_name">Would would you like to name the file?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+    <string name="draw">Draw First Player</string>
+    <string name="redraw">Draw Again</string>
+    <string name="continue_game">Continue Game</string>
+    <string name="win_draw">You have the higher domino, you go first!</string>
+    <string name="lose_draw">CPU has the higher domino, it goes first.</string>
+    <string name="tie">Dominoes are equal, please draw again.</string>
+    <string name="title_activity_play_screen">Build Up Dominoes</string>
+    <string name="human_score_text">Your Score:</string>
+    <string name="human_score_value">0</string>
+    <string name="cpu_score_text">CPU Score:</string>
+    <string name="cpu_score_value">0</string>
+    <string name="human_wins_text">Your Wins:</string>
+    <string name="human_wins_value">0</string>
+    <string name="cpu_wins_text">CPU Wins:</string>
+    <string name="cpu_wins_value">0</string>
+    <string name="play_again">Play Again</string>
+    <string name="end_tourny">End</string>
+    <string name="human_color_image_desc">Your domino color</string>
+    <string name="cpu_color_image_desc">CPU domino color</string>
+    <string name="pass_button_text">Pass</string>
+    <string name="help_button_text">Help</string>
+    <string name="invalid_move">Sorry, you can\'t make that move.</string>
+    <string name="end_of_hand">End of current hand.</string>
+    <string name="draw_next_hand">Draw next hand</string>
+    <string name="human_win_round">You win the round!</string>
+    <string name="cpu_win_round">Computer wins the round.</string>
+    <string name="draw_round">Round ends in a draw</string>
+    <string name="exit_game">Return to main menu.</string>
+    <string name="human_win_tourny">You win the tournament!</string>
+    <string name="cpu_win_tourny">Sorry, you lost the tournament.</string>
+    <string name="draw_tourny">The tournament ends in a draw.</string>
+    <string name="no_pass">You have a move available.</string>
+    <string name="help_no_moves">The Computer recommends passing, no moves are available</string>
+    <string name="cpu_pass">Computer passes.</string>
+</resources>
